@@ -1,15 +1,11 @@
 This is spotify react application 
 Authentication spotify  
 using React js
-Only Authenticated people can use this
+You have to signup to use Spotify This API is in development mode
 
-[project-preview](https://spotify-react-cs.herokuapp.com/)
+Testing Credentials :email:spotifyclonetesting@gmail.com 
+                     pass:Spotify@123
 
-**********************************************************************************
-![alt-text](https://github.com/chandra-sekharan/spotify-react/blob/master/spot.PNG)
 
-***********************************************************************************
-![alt-text](https://github.com/chandra-sekharan/spotify-react/blob/master/spot1.PNG)
+[project-preview](https://spotify-react-cs.netlify.app/)
 
-************************************************************************************
-![alt-text](https://github.com/chandra-sekharan/spotify-react/blob/master/spot3.PNG)
