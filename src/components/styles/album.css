@@ -1,0 +1,72 @@
+.albums_container{
+    width: 100% !important;
+    display: grid;
+    overflow: auto;
+    
+}
+.title_section{
+    width: 100%;
+    display: flex;
+    align-items:last baseline;
+    column-gap: 20px;
+    background-color: #5c5555b7;
+    
+}
+.title_section img{
+    width: 150px;
+    height: 200px;
+    margin-left: 15px;
+    margin-top: 30px;
+    box-shadow: 1px 2px 3px #000 ;
+}
+.title_section h1{
+    font-size: 45px;
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow:1px 2px 3px #000;
+}
+.titles h3{
+    text-shadow:1px 2px 3px #000;
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.songs_section{
+    width: 100%;
+    background-color:#251c1ca4;
+}
+.songs_sub{
+    width: 90%;
+    margin: auto;
+    margin-top: 30px !important;
+}
+.songs_section .headers{
+    display: flex;
+    column-gap: 90px;
+    margin-left: 15px;
+}
+.songs_section h1{
+    font-size: 20px;
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.track_sec{
+    display: flex;
+    column-gap: 90px;
+    padding: 10px;
+    border-bottom: 0.5px solid rgb(49, 49, 49);
+    
+}
+.track_sec:hover{
+    background-color: rgb(34, 33, 33);
+}
+.track_sec h2{
+    color: #fff;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.track_sec h3{
+    color: #fff;
+    font-size: 13px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

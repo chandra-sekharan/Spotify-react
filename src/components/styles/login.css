@@ -1,0 +1,46 @@
+.login{
+    width: 100%;
+    background-color:black;
+        
+}
+.login_header{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    padding-bottom:15px;
+}
+
+.login h1 {
+  font-size: 47px;
+  color: white;
+  font-family: Poppins,sans-serif;
+
+}
+.login_button{
+     height: 80vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.login a {
+    position: relative;
+    text-align: center;
+    line-height: 40px;
+    color: black;
+    font-size: 18px;
+    padding: 10px ;
+    font-family: Poppins,sans-serif;
+    border-radius: 5px;
+    background-color:rgb(10, 231, 76);
+    
+    
+}
+
+.login a:hover{
+    background-color: #00ce45;
+    
+}
+.login a:focus{
+    background:linear-gradient(to right ,rgb(7, 155, 52),rgb(1, 150, 34));
+}
+

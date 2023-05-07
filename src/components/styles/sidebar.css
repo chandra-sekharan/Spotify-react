@@ -1,0 +1,23 @@
+.sidebar{
+    width: 100px;
+    
+    background-color:rgb(15,15,15);
+    box-shadow: 1px 2px 3px #000;
+}
+.sidebar_inner{
+    width: 90%;
+    height: 83.5%;
+    background-color: #292828;
+    border-radius: 5px;
+    box-shadow: 1px 2px 3px #000;
+    margin: auto;
+}
+.sidebar_inner svg{
+    width: 100%;
+     margin: auto;
+     margin-top: 35px !important;
+     fill: #fff;
+  }
+   .sidebar_inner svg:hover path{
+      fill: #1bffa8 !important;
+ }
