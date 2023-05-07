@@ -15,7 +15,7 @@ const App = () => {
       useEffect(()=>{
       const hash = window.location.hash;
       const token = window.localStorage.getItem("token")
-      
+      alert("token found")
       if(!token && hash){
          let token = hash.substring(1).split("&")[0].split("=")[1];
           window.location.hash ="";
