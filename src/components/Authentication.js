@@ -2,7 +2,7 @@
 
 
 const CLIENT_ID = "ea6feeca6dad465d804fc1403386d145";
-const REDIRECT_URI = "https://spotify-react-cs.netlify.app/";
+const REDIRECT_URI = "https://spotify-react-cs.netlify.app/#";
 const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
 const RESPONSE_TYPE = "token"
 
